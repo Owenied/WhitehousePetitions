@@ -13,6 +13,7 @@
 		49F0FABE1EC10CC700823D4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49F0FABD1EC10CC700823D4A /* Assets.xcassets */; };
 		49F0FAC11EC10CC700823D4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49F0FABF1EC10CC700823D4A /* LaunchScreen.storyboard */; };
 		49F0FAC91EC128E200823D4A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F0FAC81EC128E200823D4A /* SwiftyJSON.swift */; };
+		49F0FACB1EC176CF00823D4A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F0FACA1EC176CF00823D4A /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		49F0FAC01EC10CC700823D4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49F0FAC21EC10CC700823D4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49F0FAC81EC128E200823D4A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		49F0FACA1EC176CF00823D4A /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = ../DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				49F0FAB61EC10CC700823D4A /* AppDelegate.swift */,
 				49F0FAB81EC10CC700823D4A /* ViewController.swift */,
+				49F0FACA1EC176CF00823D4A /* DetailViewController.swift */,
 				49F0FABA1EC10CC700823D4A /* Main.storyboard */,
 				49F0FABD1EC10CC700823D4A /* Assets.xcassets */,
 				49F0FABF1EC10CC700823D4A /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				49F0FAC91EC128E200823D4A /* SwiftyJSON.swift in Sources */,
 				49F0FAB91EC10CC700823D4A /* ViewController.swift in Sources */,
 				49F0FAB71EC10CC700823D4A /* AppDelegate.swift in Sources */,
+				49F0FACB1EC176CF00823D4A /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
